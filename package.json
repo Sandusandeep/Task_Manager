@@ -27,7 +27,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://<your-github-username>.github.io/<repo-name>",
+  "homepage": "https://github.com/Sandusandeep/Task_Manager",
   "browserslist": {
     "production": [
       ">0.2%",
