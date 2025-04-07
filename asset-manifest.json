@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sandusandeep/Task_Manager.git/static/css/main.83708309.css",
+    "main.js": "/Sandusandeep/Task_Manager.git/static/js/main.b93181a3.js",
+    "index.html": "/Sandusandeep/Task_Manager.git/index.html",
+    "main.83708309.css.map": "/Sandusandeep/Task_Manager.git/static/css/main.83708309.css.map",
+    "main.b93181a3.js.map": "/Sandusandeep/Task_Manager.git/static/js/main.b93181a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83708309.css",
+    "static/js/main.b93181a3.js"
+  ]
+}
